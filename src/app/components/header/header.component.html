@@ -1,4 +1,8 @@
 <header>
-  {{ title.toUpperCase() }}
-  <p>{{ content }}</p>
+  <h1>{{ title.toUpperCase() }}</h1>
+  <app-button
+    color="green"
+    text="Add"
+    (btnClick)="toggleAddTask()"
+  ></app-button>
 </header>
