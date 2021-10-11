@@ -1,11 +1,11 @@
 .task {
   background: #f4f4ff;
   margin: 5px;
-  padding: 10px 10px;
+  padding: 10px 20px;
   cursor: pointer;
 }
 .task.reminder {
-  border-left: cadetblue;
+  border-left: 5px rgb(9, 99, 110);
 }
 task h3 {
   display: flex;
