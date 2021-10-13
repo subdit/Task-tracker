@@ -4,25 +4,36 @@
       "id": 1,
       "text": "Doctor Appointment",
       "day": "October 5th at 1:30 pm.",
-      "remider": "true"
+      "remider": "true",
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Shoping At Wholefood",
       "day": "October 8th at 2:30 pm.",
-      "remider": "true"
+      "remider": "true",
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Meeting At School",
       "day": "October 10th at 3:30 pm.",
-      "remider": "true"
+      "remider": "true",
+      "reminder": true
     },
     {
       "id": 4,
-      "text": "Golfing at Blue hill resort",
-      "day": "October 12th at 3:30 pm.",
-      "remider": "false"
+      "text": "Testing 1 ",
+      "day": "October 10th at 3:30 pm.",
+      "remider": "false",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Testing 2 ",
+      "day": "October 10th at 3:30 pm.",
+      "remider": "false",
+      "reminder": true
     }
   ]
 }

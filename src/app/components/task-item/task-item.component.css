@@ -5,13 +5,10 @@
   cursor: pointer;
 }
 .task.reminder {
-  border-left: 5px rgb(9, 99, 110);
+  border-left: 5px solid green;
 }
 .task h3 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-.task text {
-  color: royalblue;
 }
