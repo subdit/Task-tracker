@@ -17,6 +17,12 @@
       "text": "Meeting At School",
       "day": "October 10th at 3:30 pm.",
       "remider": "true"
+    },
+    {
+      "id": 4,
+      "text": "Golfing at Blue hill resort",
+      "day": "October 12th at 3:30 pm.",
+      "remider": "false"
     }
   ]
 }
