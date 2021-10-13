@@ -19,18 +19,11 @@
       "text": "Meeting At School",
       "day": "October 10th at 3:30 pm.",
       "remider": "true",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 4,
       "text": "Testing 1 ",
-      "day": "October 10th at 3:30 pm.",
-      "remider": "false",
-      "reminder": false
-    },
-    {
-      "id": 5,
-      "text": "Testing 2 ",
       "day": "October 10th at 3:30 pm.",
       "remider": "false",
       "reminder": true

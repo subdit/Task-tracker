@@ -28,6 +28,9 @@ export class TasksComponent implements OnInit {
 
     // console.log(task.reminder);
   }
+  addTask(task: Task) {
+    console.log(task);
+  }
 }
 // function task(task: any) {
 //   throw new Error('Function not implemented.');
