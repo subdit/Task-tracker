@@ -22,11 +22,10 @@
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Testing 1 ",
-      "day": "October 10th at 3:30 pm.",
-      "remider": "false",
-      "reminder": true
+      "text": "Swimming ",
+      "day": "Sunday at 10:00 am.",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
